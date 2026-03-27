@@ -1,6 +1,7 @@
 # Skip the data loading
-data/cats_vs_dogs/Cat/*.*
-data/cats_vs_dogs/Dog/*.*
+data/cats_vs_dogs/*
+data/cats_vs_dogs/*
+load_data.ipynb
 
 
 # Byte-compiled / optimized / DLL files
