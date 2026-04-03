@@ -2,6 +2,7 @@
 data/cats_vs_dogs/*
 data/cats_vs_dogs/*
 load_data.ipynb
+*.keras
 
 
 # Byte-compiled / optimized / DLL files
